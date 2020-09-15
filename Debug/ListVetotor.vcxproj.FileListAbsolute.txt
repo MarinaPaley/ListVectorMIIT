@@ -1,0 +1,2 @@
+C:\Users\student\source\repos\ListVetotor\Debug\ListVetotor.exe
+C:\Users\student\source\repos\ListVetotor\Debug\ListVetotor.pdb
